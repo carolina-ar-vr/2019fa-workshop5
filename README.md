@@ -1,6 +1,7 @@
-# ZombieBrainsCollector
+# Zombie Brains Collector
  
 In this Workshop, we will be going over seveeral aspects of creating a game, from using Mixamo to choose and download a model, link the model to it's Animations, and have control of when/how the model activates the Animations.
+
 ### What this Workshop covers
     1. Mixamo (Search & Download)
     2. Importing Mixamo model into Unity with Animations
